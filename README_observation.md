@@ -78,8 +78,10 @@ In this section, I used NLTK and Python to tokenize text, find n-gram counts, an
 
 Below were the key observations basis word clouds.
 
+#### Bitcoin Word Cloud
 ![bitcoin_output_1.png](Images/bitcoin_output_1.png)
 
+#### Ethereum Word Cloud
 ![ethereum_output_1.png](Images/ethereum_output_1.png)
 
 
@@ -87,7 +89,7 @@ Below were the key observations basis word clouds.
 
 In this section, I built a named entity recognition model for both coins and visualized the tags using SpaCy.
 
-#### Bit Coin NER
+#### Bitcoin NER
 ![btc_ner_output.png](Images/btc_ner_output.png)
 
 
